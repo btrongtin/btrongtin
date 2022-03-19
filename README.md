@@ -58,7 +58,7 @@
   <a href="https://www.facebook.com/trongtin891/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="buitrongtin-facebook" />
   </a>
-  <a href="linkedin.com/in/tín-bùi-trọng-043658229" target="blank">
+  <a href="https://linkedin.com/in/tín-bùi-trọng-043658229" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="buitrongtin-linkedin" />
   </a>
   <a href="mailto:btrongtin891@gmail.com" target="top">
